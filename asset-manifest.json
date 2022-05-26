@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.918b63c8.css",
-    "main.js": "/react-homework-template/static/js/main.ae17a55e.js",
-    "static/js/787.6b7abe35.chunk.js": "/react-homework-template/static/js/787.6b7abe35.chunk.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.918b63c8.css.map": "/react-homework-template/static/css/main.918b63c8.css.map",
-    "main.ae17a55e.js.map": "/react-homework-template/static/js/main.ae17a55e.js.map",
-    "787.6b7abe35.chunk.js.map": "/react-homework-template/static/js/787.6b7abe35.chunk.js.map"
+    "main.css": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/css/main.918b63c8.css",
+    "main.js": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/js/main.89f862e4.js",
+    "static/js/787.a63a714a.chunk.js": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/js/787.a63a714a.chunk.js",
+    "index.html": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/index.html",
+    "main.918b63c8.css.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/css/main.918b63c8.css.map",
+    "main.89f862e4.js.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/js/main.89f862e4.js.map",
+    "787.a63a714a.chunk.js.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1.git/static/js/787.a63a714a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.918b63c8.css",
-    "static/js/main.ae17a55e.js"
+    "static/js/main.89f862e4.js"
   ]
 }
