@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/css/main.918b63c8.css",
-    "main.js": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/js/main.7430ab7c.js",
-    "static/js/787.a63a714a.chunk.js": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/js/787.a63a714a.chunk.js",
-    "index.html": "/MariuszLeonGebel/goit-react-hw-02-feedback1/index.html",
-    "main.918b63c8.css.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/css/main.918b63c8.css.map",
-    "main.7430ab7c.js.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/js/main.7430ab7c.js.map",
-    "787.a63a714a.chunk.js.map": "/MariuszLeonGebel/goit-react-hw-02-feedback1/static/js/787.a63a714a.chunk.js.map"
+    "main.css": "/goit-react-hw-02-feedback1/static/css/main.918b63c8.css",
+    "main.js": "/goit-react-hw-02-feedback1/static/js/main.14583ce3.js",
+    "static/js/787.a63a714a.chunk.js": "/goit-react-hw-02-feedback1/static/js/787.a63a714a.chunk.js",
+    "index.html": "/goit-react-hw-02-feedback1/index.html",
+    "main.918b63c8.css.map": "/goit-react-hw-02-feedback1/static/css/main.918b63c8.css.map",
+    "main.14583ce3.js.map": "/goit-react-hw-02-feedback1/static/js/main.14583ce3.js.map",
+    "787.a63a714a.chunk.js.map": "/goit-react-hw-02-feedback1/static/js/787.a63a714a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.918b63c8.css",
-    "static/js/main.7430ab7c.js"
+    "static/js/main.14583ce3.js"
   ]
 }
